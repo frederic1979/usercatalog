@@ -14,5 +14,4 @@ export interface User {
  imageUrl: string;
  coordinate: Coordinate;
 
-
 }
